@@ -4,7 +4,8 @@
 ### Table of Contents
 
 - [Agency](#Agency-Neo-News)
-- [TargetMe](#TargetMe "Goto TargetMe")
+- [TargetMe](#TargetMe)
+- [Collaborate with other projects web](#Collaborate-with-other-projects-web)
 
 ## Agency Neo News
 ### Overview
@@ -83,7 +84,14 @@ These resources played a vital role in enriching my skill set and enabling me to
     4. Share any other tips or guidance for others attempting this or something similar.
  -->
 
+ <img src="src/TargetMe/Tg_metadata.jpg" alt="Metadata" width="450" style="display:inline"/>
+ <img src="src/TargetMe/Tg_login.jpg" alt="TargetMe Login" width="450" style="display:inline"/>
+ <img src="src/TargetMe/Tg_dashboard.jpg" alt="TargetMe Dashboard" width="450" style="display:inline"/>
+ <img src="src/TargetMe/Tg_stats.jpg" alt="TargetMe Stats" width="450" style="display:inline"/>
+
 Welcome to TargetMe, a cutting-edge digital platform designed to measure the satisfaction levels of marketing services through monitoring and polling. Our mission is to provide the marketing industry with an agnostic and reliable perspective, driven by automated perception votes. This evaluation is sourced directly from clients, suppliers, and fans of participating agencies and companies, making it the first survey and Quality Monitoring initiative in Mexico.
+
+Website [TargetMe](https://www.targetme.org/)
 
 ### Built With
 
@@ -127,3 +135,38 @@ These resources played a vital role in enriching my skill set and enabling me to
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+## Collaborate with other projects web
+
+### World Marketing Summit Español
+<img src="src/Others/Others_EWMS.jpg" alt="EWMS Website" width="450" style="display:inline"/>
+
+Website: [World Marketing Summit Español](https://www.worldmarketingsummitespanol.org)
+
+### Neo Comunicaciones
+<img src="src/Others/Others_NeoComunicaciones.jpg" alt="EWMS Website" width="450" style="display:inline"/>
+
+Website: [Neo Comunicaciones](https://www.neocomunicaciones.com)
+
+### CUMBRE DE REPUTACIÓN CORPORATIVA LATAM 2022
+<img src="src/Others/Others_Cumbre.jpg" alt="EWMS Website" width="450" style="display:inline"/>
+
+Website: [Cumbre reputacional](https://www.cumbrereputacioncorporativa.com)
+
+### Redbook México
+<img src="src/Others/Others_Redbook.mx.jpg" alt="EWMS Website" width="450" style="display:inline"/>
+
+Website: [Redbook MX](https://www.redbook.mx)
+
+### Alaska Transportes
+<img src="src/Others/Others_TransportesAlaska.jpg" alt="EWMS Website" width="450" style="display:inline"/>
+
+Website: [alaskatransportes](https://alaskatransportes.cl)
+
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+
